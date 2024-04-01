@@ -13,6 +13,7 @@ WHERE
 
 GROUP BY
     id_to_company.name;
+    
 
 
 CREATE TABLE january_jobs AS
