@@ -35,7 +35,6 @@ ORDER BY
 
 
 /*
-
 Output:
 [
   {
